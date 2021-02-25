@@ -1,4 +1,5 @@
 # Shared-Memory-Matrix-Addition
+This application completes matrix addition, one file uses a single process, the other uses multiple processes. This project was completed as a school assignment and this readme includes my lab writeup.
 
 ## Introduction
 In this lab, we wrote two programs that completed matrix addition and then printed the results to the console. The matrices were stored in two separate files and had to be passed in as arguments and parsed. One of the programs used a single process to complete the addition and the second one used multi-process programming, one for each row in the matrices. The execution time of both programs was recorded and printed with the results.
