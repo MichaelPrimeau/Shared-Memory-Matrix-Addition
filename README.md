@@ -1,6 +1,6 @@
 # Shared-Memory-Matrix-Addition
 
-# Introduction
+## Introduction
 In this lab, we wrote two programs that completed matrix addition and then printed the results to the console. The matrices were stored in two separate files and had to be passed in as arguments and parsed. One of the programs used a single process to complete the addition and the second one used multi-process programming, one for each row in the matrices. The execution time of both programs was recorded and printed with the results.
 
 # Design
